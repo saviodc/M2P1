@@ -1,0 +1,8 @@
+in_median = 0.0
+in_deviation = 0.0
+learning_rate = 0.0
+n_batch = 0
+n_hidden = 0
+n_epoch = 0
+n_samples = 0
+
