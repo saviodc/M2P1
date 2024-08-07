@@ -667,7 +667,7 @@ int read_meta(Net& net,int& n_samples, std::string metas_file_name){
 int main(int argc, char* argv[]){
 	
 	std::string metas_file_name = "metas.txt";
-	std::string train_set_file_name = "/home/arthur/E110/2023/ML/Project/mnist_train.csv";
+	std::string train_set_file_name = "mnist_train.csv";
 	std::string weights_biases_filename = "wb10.txt";
 	std::string convergence_filename = "conv10.txt";
 	std::cout<<"You have entered "<<argc<<" arguments:\n";
