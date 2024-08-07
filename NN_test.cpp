@@ -407,8 +407,9 @@ int main(int argc, char **argv){
     if (argc == 2){
         wb_file_name = argv[argc-1];
     } else {
-	    std::cout<<"Enter file name for biases and weights: ";
-	    std::cin>>wb_file_name;
+	    //std::cout<<"Enter file name for biases and weights: ";
+	    //std::cin>>wb_file_name;
+	    wb_file_name = "wb10.txt";
     }
 
     
