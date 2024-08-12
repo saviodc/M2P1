@@ -1,0 +1,8 @@
+in_median = 0
+in_deviation = 0.05
+learning_rate = 0.1
+n_batch = 1
+n_hidden = 300
+n_epoch = 70
+n_samples = 75000
+
